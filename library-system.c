@@ -102,7 +102,7 @@ int main(){
         printf("\n2. Lihat Daftar Buku");
         printf("\n3. Buang Buku");
         printf("\n4. Peminjaman Buku");
-        printf("\n5 Lihat Daftar Peminjam Buku");
+        printf("\n5. Lihat Daftar Peminjam Buku");
         printf("\n6. Pengembalian Buku");
         printf("\n7. Exit Program");
         printf("\nSilahkan Masukan Pilihan Anda :");
